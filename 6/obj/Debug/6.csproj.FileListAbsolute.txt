@@ -1,0 +1,7 @@
+D:\Hello_World\6\6\bin\Debug\6.exe.config
+D:\Hello_World\6\6\bin\Debug\6.exe
+D:\Hello_World\6\6\bin\Debug\6.pdb
+D:\Hello_World\6\6\obj\Debug\6.csprojResolveAssemblyReference.cache
+D:\Hello_World\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+D:\Hello_World\6\6\obj\Debug\6.exe
+D:\Hello_World\6\6\obj\Debug\6.pdb
